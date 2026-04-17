@@ -1,25 +1,25 @@
-1. Arvid Kahl
-  Platform: Podcast, Twitter/X  
-    Link: [https://arvidkahl.com/](https://arvidkahl.com/)  
-    Last checked: April 2026  
-    Content type: AI writing, audience building  
-    Annotation: Focuses on combining AI writing tools with human-centered content strategies for sustainable growth.
-2. Jesse Cunningham
-  Platform: LinkedIn  
-    Link: [https://www.linkedin.com/in/jesse-cunningham/](https://www.linkedin.com/in/jesse-cunningham/)  
-    Last checked: April 2026  
-    Content type: AI workflows, automation  
-    Annotation: Shares actionable insights on building AI-powered content systems and scaling SEO operations.
+1. Arvid Kahl  
+Platform: Podcast, Twitter/X  
+Link: [https://arvidkahl.com/](https://arvidkahl.com/)  
+Last checked: April 2026  
+Content type: AI writing, audience building  
+Annotation: Focuses on combining AI writing tools with human-centered content strategies for sustainable growth.
+2. Jesse Cunningham  
+Platform: LinkedIn  
+Link: [https://www.linkedin.com/in/jesse-cunningham/](https://www.linkedin.com/in/jesse-cunningham/)  
+Last checked: April 2026  
+Content type: AI workflows, automation  
+Annotation: Shares actionable insights on building AI-powered content systems and scaling SEO operations.
 3. Julian Goldie Platform: YouTube  
 Link: ++[https://www.youtube.com/@JulianGoldieSEO](https://www.youtube.com/@JulianGoldieSEO)++  
 Last checked: April 2026  
 Content type: Tutorials, automation workflowAnnotation: Focuses on AI SEO strategies, including programmatic SEO and scalable content production using AI tools.
-4. Kevin Indig
-  Platform: Blog, LinkedIn  
-    Link: [https://www.kevin-indig.com/](https://www.kevin-indig.com/)  
-    Last checked: April 2026  
-    Content type: Growth SEO, strategic insights  
-    Annotation: Provides high-level SEO and AI strategy insights, especially for scaling organic growth in competitive markets.
+4. Kevin Indig  
+Platform: Blog, LinkedIn  
+Link: [https://www.kevin-indig.com/](https://www.kevin-indig.com/)  
+Last checked: April 2026  
+Content type: Growth SEO, strategic insights  
+Annotation: Provides high-level SEO and AI strategy insights, especially for scaling organic growth in competitive markets.
 5. Koray Tuğberk GÜBÜR Platform: Blog, LinkedIn  
 Link: ++[https://www.holisticseo.digital/](https://www.holisticseo.digital/)++  
 Last checked: April 2026  
