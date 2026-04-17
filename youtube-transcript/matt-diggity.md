@@ -1,4 +1,5 @@
-Last updated: April 2026  
+https://www.youtube.com/watch?v=xG9Vu9yrQzw
+Last updated: December 2025
 
 Insight 1 – AI Content Testing
 

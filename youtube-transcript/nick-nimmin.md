@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=CT7k0cXS8Ho
 Last updated: April 2026  
 
 Insight 1 – YouTube SEO + AI

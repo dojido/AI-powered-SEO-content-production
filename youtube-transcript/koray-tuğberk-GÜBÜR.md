@@ -1,4 +1,5 @@
-Last updated: April 2026  
+https://www.youtube.com/watch?v=WzVgS-LtiW8
+Last updated: August 2025  
 
 Insight 1 – Semantic SEO
 

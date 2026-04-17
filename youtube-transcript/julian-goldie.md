@@ -1,4 +1,5 @@
-Last updated: April 2026  
+https://www.youtube.com/watch?v=KrKhfm2Xuho
+Last updated: February 2026  
 
 Insight 1 – AI SEO Workflows
 

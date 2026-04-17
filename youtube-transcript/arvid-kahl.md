@@ -1,4 +1,5 @@
-Last updated: April 2026  
+https://www.youtube.com/watch?v=HOD3UwBW1UI
+Last updated: January 2026  
 Insight 1 – Human-Centered AI Content
 
 Summary:  
